@@ -6,7 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com//soheilh12)](https://space.bilibili.com/7708412)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/soheilh12)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvvaresh&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?usernamesoheilh12
+=&show_icons=true&hide_border=true">
 
 
 ## 🧐 About
